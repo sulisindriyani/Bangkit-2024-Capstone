@@ -1,1 +1,1 @@
-# Bangkit-2024-Capstone
+# Machine Learning Path
